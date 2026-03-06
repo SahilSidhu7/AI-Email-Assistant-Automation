@@ -30,6 +30,22 @@ Perfect for:
 
 ---
 
+# Screenshots
+
+Screenshot 1 - n8n Canvas
+
+![n8n Canvas](Screenshots/n8ncanvas.png)
+
+Screenshot 2 - Ollama Node
+
+![Ollama Node](Screenshots/ollamaNode.png)
+
+Screenshot 3 - Telegram message
+
+![Telegram](Screenshots/telegram.png)
+
+---
+
 # ⚙️ Tech Stack
 
 - n8n (workflow automation)
