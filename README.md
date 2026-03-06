@@ -33,7 +33,7 @@ Perfect for:
 # ⚙️ Tech Stack
 
 - n8n (workflow automation)
-- OpenAI API
+- Gmail API
 - Ollama
 - Telegram (optional)
 
@@ -42,11 +42,17 @@ Perfect for:
 # 🔄 Workflow Architecture
 
 Gmail Trigger
+
 ↓
+
 Extract Email Content
+
 ↓
+
 Ollama (Summarize + Reply)
+
 ↓
+
 Send Notification (Telegram)
 
 
